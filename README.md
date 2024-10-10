@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy GaboPhind> 👋</h1>
+<h1 align="center">Hola, soy GaboPhind 👋</h1>
 </div>
 <img src="https://learn.microsoft.com/es-es/shows/learn-live/get-certified-github/media/learnlive-banner-2024.png">
 

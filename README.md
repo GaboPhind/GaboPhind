@@ -1,5 +1,5 @@
 <div><h1 align="center">Hola, soy Michelada 👋</h1></div>
-<img src="./Banner_Foto.jpg">
+<img src="./Banner_Foto.jpg""width="1920" height="690"/>
 
 <div>
 <h2>Sobre mi</h2>

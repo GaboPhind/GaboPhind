@@ -1,5 +1,7 @@
+<div><h1 align="center">Hola, soy Michelada 👋</h1></div>
+<img src="./">
+
 <div>
-<h1 align="center">Hola, soy GaboPhind 👋</h1>
 <h2>Sobre mi</h2>
  
 - ✌️ JavaScript Developer

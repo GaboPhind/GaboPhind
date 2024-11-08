@@ -1,5 +1,9 @@
+<link rel="steylsheet" href="./styles.css">
 <div><h1 align="center">Hola, soy Michelada 👋</h1></div>
-<img src="./Banner_Foto.jpg""width="1920" height="690"/>
+<div style="align-content: center;">
+ <img style="position: absolute; z-index: 1" src="./Foto_Banner.jpg"/>
+ <img style="position: absolute; z-index: 2" src="./Foto_Perfil.jpg" "width="320" height="320""/>
+</div>
 
 <div>
 <h2>Sobre mi</h2>

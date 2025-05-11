@@ -1,23 +1,25 @@
-<link rel="steylsheet" href="./styles.css">
-<div><h1 align="center">Hola, soy Michelada 👋</h1></div>
-<div style="align-content: center;">
- <img style="position: absolute; z-index: 1" src="./Foto_Banner.jpg"/>
-</div>
+# 💫 Sobre mí:
+💻 Programador Junior<br>🪧 Aprendiendo NodeJS, SQLite & JavaScript<br>📖 Cada dia aprendo algo nuevo<br>📁 Interesado en las Aplicaciones e IAs
 
-<div>
-<h2>Sobre mi</h2>
- 
-- ✌️ JavaScript Developer
-- 💻 Aprendiendo React, NodeJS y Expo
-- 👨‍💻 Programador Junior
-- 📗 Proyectos actuales: 2
-</div>
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🌐 Redes Sociales:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gabo2447) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Gabo2448) 
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaboPhind&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaboPhind&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+# 💻 Tecnologias:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GaboPhind&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GaboPhind&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaboPhind&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trofeos
+![](https://github-profile-trophy.vercel.app/?username=Gabo2447&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+
+<!--- ### 🔝 Top Contributed Repo  --->
+<!--- ![](https://github-contributor-stats.vercel.app/api?username=Gabo2447&limit=5&theme=dark&combine_all_yearly_contributions=true) --->
+
+<!--- --- --->
+<!--- [![](https://visitcount.itsvg.in/api?id=Gabo2447&icon=0&color=0)](https://visitcount.itsvg.in) --->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
